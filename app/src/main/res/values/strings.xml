@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Second</string>
+    <string name="hi">Hello kitty</string>
+    <string name="user_name">UserName</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_exit">Exit</string>
+    <string name="inp_tip">Please Input</string>
+    <string name="logo" translatable="false">IBM</string>
+    <string name="reset_label">reset</string>
+    <string name="team_name">TeamA</string>
+    <string name="team_scoreA">0</string>
+    <string name="team_scoreB">0</string>
+    <string name="btn3_label">+3 points </string>
+    <string name="btn2_label">+2 points </string>
+    <string name="btn1_label">FREE THROW </string>
+    <string name="btn6_label">+3 points </string>
+    <string name="btn5_label">+2 points </string>
+    <string name="btn4_label">FREE THROW </string>
+
+</resources>
